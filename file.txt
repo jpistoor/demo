@@ -2,3 +2,5 @@
 
 #clone deze repo middels het commando:
 git clone https://github.com/jpistoor/demo.git
+
+#vervolgens kun je je wijzigingen doorvoeren en deze committen en pushen.
