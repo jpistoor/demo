@@ -1,0 +1,4 @@
+Dit is slechts een tekstfile, de eerste file in deze GIT repo.
+
+Clone deze repo middels het commando:
+git clone https://github.com/jpistoor/demo.git
